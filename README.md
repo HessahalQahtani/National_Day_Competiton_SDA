@@ -19,11 +19,12 @@ world announce at the end of the year. Therefore, we will focus on showing the i
    - Publish the Dashboard to the Power BI Service then to the web ([The link will be available only until the end of October 2023](https://app.powerbi.com/view?r=eyJrIjoiMmU4NTU5MWItMjkzNy00NzMzLTg2MzQtNDk3NWRkY2UwZWM2IiwidCI6ImRkZjgzYjUwLWY0OTEtNDNmZS1hNmJlLWZmZDc3YTU2MjBmMSIsImMiOjl9&pageName=ReportSection673b2391eb771bd9f28b))
 
 
-3. **Resources and References** <br>
-    - Data Resources : <br>
-      General Authority for Statistics.<br>
-      The global Econonmy<br>
-      World Bank
+3. **Resources and References**   
+    - Data Resources :   
+      General Authority for Statistics.  
+      The global Econonmy.  
+      World Bank.
 
-4. **License** <br>
-     This project was created as part of the SDA competition.
+4. **License**   
+This project was created as part of the SDA competition.
+   
