@@ -17,20 +17,13 @@ world announce at the end of the year. Therefore, we will focus on showing the i
    - Choose the appropriate visualization types (ex: line chart track changes in the specific time we had chosen.)
    - Design the dashboard layout to reflect the identity of National Day 93.
    - Publish the Dashboard to the Power BI Service then to the web ([The link will be available only until the end of October 2023](https://app.powerbi.com/view?r=eyJrIjoiMmU4NTU5MWItMjkzNy00NzMzLTg2MzQtNDk3NWRkY2UwZWM2IiwidCI6ImRkZjgzYjUwLWY0OTEtNDNmZS1hNmJlLWZmZDc3YTU2MjBmMSIsImMiOjl9&pageName=ReportSection673b2391eb771bd9f28b))
-   - 
-   - 
-4. **Documentation**
-    - Installation Guide
-    - Usage Instructions
-    - API Documentation
-    - FAQ
 
 
+3. **Resources and References**
+    - Data Resources :
+      General Authority for Statistics.
+      The global Econonmy
+      World Bank
 
-9. **Resources and References**
-    - Related Projects
-    - External Documentation
-    - Acknowledgments
-
-10. **License**
-    - Project License Information
+4. **License**
+     This project was created as part of the SDA competition.
